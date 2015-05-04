@@ -1,0 +1,7 @@
+/target/
+/.idea/
+/mytodos.iml
+/.settings/
+/.classpath
+/.project
+/.tern-project
